@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pbruce2081
-- 👀 I’m interested in programming and teaching (as well as performing arts!)
+- 👀 I’m interested in programming, web development and teaching (as well as performing arts!)
 - 🌱 I’m currently learning Computer Science at Royal Holloway
 - 📫 How to reach me: pbruce2081@gmail.com
 
